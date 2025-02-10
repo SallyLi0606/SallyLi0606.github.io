@@ -17,42 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a PhD student at the School of Statistics, Renmin University of China (中国人民大学统计学院), advised by [Xiaoling lv (吕晓玲)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). I mainly engaged in the research of the intersection of data mining and statistics. My research interest includes Data Mining, Applied Statistics, and Statistical Analysis of Consumer Behavior.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from the School of Science at Hubei University of Technology with a major in Applied Statistics, advised by [Youxi Luo (罗幼喜)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). Between December 2022 and May 2024, I interned at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, focusing on applied statics and AI-driven big data on bioinformatics.
+
+During my master studies, I ranked second in my major with an average score of 89.86. I won the first-class academic scholarship and the title of Outstanding Graduate Student at the university level for two consecutive years. I was also awarded the National Scholarship (研究生国家奖学金). Actively engaging in academic competitions, I have won awards in all six national-level academic competitions I participated in.
+
+I have published four papers at the JCR-Q1/Q2 journals with total <a href='https://scholar.google.com/citations?user=PKpvB8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎓 Education
+- *2024.09 - present*: PhD candidate, Renmin University of China, Beijing.
+- *2022.12 - 2024.05*: Intern master, Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, Shenzhen.
+- *2021.09 - 2024.06*: Master, Hubei University of Technology, Wuhan.
+
 
 # 📝 Publications 
+1. **Li, Wang**, Hanfang Li, and Youxi Luo. "[Dynamic and Static Enhanced BIRCH for Functional Data Clustering](https://doi.org/10.1109/ACCESS.2023.3322929)." *IEEE Access* (2023). doi: 10.1109/ACCESS.2023.3322929.
+2. **Li, Wang**, Chaozhu Hu, and Youxi Luo. "[A deep learning approach with extensive sentiment analysis for quantitative investment.](https://doi.org/10.3390/electronics12183960)" *Electronics* 12, no. 18 (2023): 3960. doi: 10.3390/electronics12183960.
+3. Zhang, Weihong, Fan Hu, **Wang Li**, and Peng Yin. "[Does protein pretrained language model facilitate the prediction of protein–ligand interaction?](https://doi.org/10.1016/j.ymeth.2023.08.016)." *Methods* 219 (2023): 8-15. doi: 10.1016/j.ymeth.2023.08.016.
+4. Hu, Fan, Weihong Zhang, Huazhen Huang, **Wang Li**, Yang Li, and Peng Yin. "[A Transferability-Based Method for Evaluating the Protein Representation Learning](https://doi.org/10.1109/JBHI.2024.3370680)." *IEEE Journal of Biomedical and Health Informatics* (2024). doi: 10.1109/JBHI.2024.3370680.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2024.06: University-level Outstanding Graduate.
+- 2023.10: **National Scholarship for Postgraduate Students**.
+- 2022.10: Annual Outstanding Student of HBUT.
+- 2022.10: First-class academic scholarship.
+- 2021.10: Annual Outstanding Student of HBUT.
+- 2021.10: First-class academic scholarship.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🏆 Competitions
+1. 2021.09: *the 18th China Postgraduate Mathematical Modeling Competition (Huawei Cup)*, National Third Prize.
+2. 2022.03: *the 12th National College Students' Market Research Competition*, National Third Prize.
+3. 2022.05: *the 5th National Case Competition for Postgraduate Students of Applied Statistics Professional Degree*, National Second Prize.
+4. 2022.06: *the 8th National College Students' Statistical Modeling Competition*, Provincial Second Prize.
+5. 2022.10: *the 19th China Postgraduate Mathematical Modeling Competition (Huawei Cup)*, National Third Prize.
+6. 2023.05: *the 6th National Case Competition for Postgraduate Students of Applied Statistics Professional Degree*, National Second Prize.
