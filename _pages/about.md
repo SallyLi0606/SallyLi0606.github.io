@@ -23,7 +23,7 @@ I graduated from the School of Science at Hubei University of Technology with a 
 
 During my master studies, I ranked second in my major with an average score of 89.86. I won the first-class academic scholarship and the title of Outstanding Graduate Student at the university level for two consecutive years. I was also awarded the National Scholarship (研究生国家奖学金). Actively engaging in academic competitions, I have won awards in all six national-level academic competitions I participated in.
 
-I have published four papers at the JCR-Q1/Q2 journals with total <a href='https://scholar.google.com/citations?user=PKpvB8EAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have published four papers at the JCR-Q1/Q2 journals with total <a href='https://scholar.google.com/citations?user=PKpvB8EAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🎓 Education
