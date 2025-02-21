@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at the School of Statistics, Renmin University of China (中国人民大学统计学院), advised by [Xiaoling lv (吕晓玲)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). I mainly engaged in the research of the intersection of data mining and statistics. My research interest includes Data Mining, Applied Statistics, and Statistical Analysis of Consumer Behavior. I have published four papers at the JCR-Q1/Q2 journals.
+I am currently a PhD student at the School of Statistics, Renmin University of China (中国人民大学统计学院), advised by [Xiaoling lv (吕晓玲)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). I mainly engaged in the research of the intersection of data mining and statistics. My research interest includes `Data Mining`, `Applied Statistics`, and `Statistical Analysis of Consumer Behavior`. I have published four papers at the JCR-Q1/Q2 journals.
 
 I graduated from the School of Science at Hubei University of Technology with a major in Applied Statistics, advised by [Youxi Luo (罗幼喜)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). Between December 2022 and May 2024, I interned at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, focusing on applied statics and AI-driven big data on bioinformatics.
 
