@@ -47,7 +47,7 @@ During my master studies, I ranked second in my major with an average score of 8
   <span class='paper-asset'><a href="https://doi.org/10.1016/j.ymeth.2023.08.016">Page</a></span> <span class='paper-asset'><a href="https://drive.google.com/file/u/0/d/1hvl9Qv9IOomUONblO1SUR71X7TALEOQL/view">PDF</a></span> <span class='paper-asset'><a href="https://github.com/brian-zZZ/PLM-PLI">Code</a></span>
 
 - <span class='paper-badge'>IEEE JBHI</span> **A Transferability-Based Method for Evaluating the Protein Representation Learning**<br>
-  _Fan Hu, Weihong Zhang, Huazhen Huang, <u><b>Wang Li<u><b>, Yang Li, and Peng Yin<br>
+  _Fan Hu, Weihong Zhang, Huazhen Huang, <u><b>Wang Li<u><b>, Yang Li, and Peng Yin_<br>
   _IEEE Journal of Biomedical and Health Informatics_, 2024 (JCR-Q1 Top, IF=7.7)<br>
   <span class='paper-asset'><a href="https://doi.org/10.1109/JBHI.2024.3370680">Page</a></span> <span class='paper-asset'><a href="https://drive.google.com/file/u/0/d/1TLncJUIr1evNcXo0sYERoD1sbhJZx8xw/view">PDF</a></span> <span class='paper-asset'><a href="[https://github.com/SallyLi0606/DSE-BIRCH](https://github.com/SIAT-code/OTMTD)">Code</a></span>
 
