@@ -25,21 +25,40 @@ During my master studies, I ranked second in my major with an average score of 8
 
 
 # 🎓 Education
-- *2024.09 - present*: <img src='./images/ruc.png' style='width: 5em;'> PhD candidate, Renmin University of China, Beijing.
-- *2022.12 - 2024.05*: <img src='./images/ucas.png' style='width: 5em;'> Intern master, Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, Shenzhen.
-- *2021.09 - 2024.06*: <img src='./images/hbut.png' style='width: 5em;'> Master, Hubei University of Technology, Wuhan.
+- *2024.09 - present*: <a href="https://www.huawei.com/"><img src='./images/ruc.png' width="23pt"></a> PhD candidate, Renmin University of China, Beijing.
+- *2022.12 - 2024.05*: <a href="https://www.huawei.com/"><img src='./images/ucas.png' width="23pt"></a> Intern master, Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, Shenzhen.
+- *2021.09 - 2024.06*: <a href="https://www.huawei.com/"><img src='./images/hbut.png' width="23pt"></a> Master, Hubei University of Technology, Wuhan.
 
 
 # 📝 Publications
-- <span class='paper-badge'>IEEE Access</span> **Dynamic and Static Enhanced BIRCH for Functional Data Clustering**<br>
-  _<u><b>Wang Li</b></u>, Hanfang Li, and Youxi Luo_<br>
-  _IEEE Access_, 2024 (JCR-Q2)<br>
-  <span class='paper-asset'><a href="https://doi.org/10.1109/ACCESS.2023.3322929">Page</a></span> <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10274088">PDF</a></span> <span class='paper-asset'><a href="https://github.com/SallyLi0606/DSE-BIRCH">Code</a></span>
 
-- <span class='paper-badge'>Electronics</span> **A deep learning approach with extensive sentiment analysis for quantitative investment**<br>
-  _<u><b>Wang Li</b></u>, Chaozhu Hu, and Youxi Luo_<br>
-  _Electronics_, 2024 (JCR-Q2)<br>
-  <span class='paper-asset'><a href="https://doi.org/10.3390/electronics12183960">Page</a></span> <span class='paper-asset'><a href="https://www.mdpi.com/2079-9292/12/18/3960/pdf?version=1695202432">PDF</a></span> <span class='paper-asset'><a href="https://github.com/SallyLi0606/Quant">Code</a></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/ieee-access-2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dynamic and Static Enhanced BIRCH for Functional Data Clustering](https://doi.org/10.1109/ACCESS.2023.3322929)
+
+_<u><b>Wang Li</b></u>, Hanfang Li, and Youxi Luo_<br>
+_IEEE Access_, 2024 (JCR-Q2)<br>
+<span class='paper-asset'><a href="https://doi.org/10.1109/ACCESS.2023.3322929">Page</a></span> <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10274088">PDF</a></span> <span class='paper-asset'><a href="https://github.com/SallyLi0606/DSE-BIRCH">Code</a></span>
+
+- A novel method that incorporates both the constant and derivate features to simultaneously measure the static and dynamic distances between functional samples.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronics</div><img src='images/electronics-2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A deep learning approach with extensive sentiment analysis for quantitative investment](https://doi.org/10.3390/electronics12183960)
+
+_<u><b>Wang Li</b></u>, Chaozhu Hu, and Youxi Luo_<br>
+_Electronics_, 2024 (JCR-Q2)<br>
+<span class='paper-asset'><a href="https://doi.org/10.3390/electronics12183960">Page</a></span> <span class='paper-asset'><a href="https://www.mdpi.com/2079-9292/12/18/3960/pdf?version=1695202432">PDF</a></span> <span class='paper-asset'><a href="https://github.com/SallyLi0606/Quant">Code</a></span>
+
+- A novel quantitative investment approach that constructs a deep hybrid model for comprehensive analysis of historical trading data and news information, complemented by momentum trading strategies.
+</div>
+</div>
+
 
 - <span class='paper-badge'>Methods</span> **Does protein pretrained language model facilitate the prediction of protein–ligand interaction?**<br>
   _Weihong Zhang, Fan Hu, <u><b>Wang Li</b></u>, and Peng Yin_<br>
@@ -49,7 +68,7 @@ During my master studies, I ranked second in my major with an average score of 8
 - <span class='paper-badge'>IEEE JBHI</span> **A Transferability-Based Method for Evaluating the Protein Representation Learning**<br>
   _Fan Hu, Weihong Zhang, Huazhen Huang, <u><b>Wang Li<u><b>, Yang Li, and Peng Yin_<br>
   _IEEE Journal of Biomedical and Health Informatics_, 2024 (JCR-Q1 Top, IF=7.7)<br>
-  <span class='paper-asset'><a href="https://doi.org/10.1109/JBHI.2024.3370680">Page</a></span> <span class='paper-asset'><a href="https://drive.google.com/file/u/0/d/1TLncJUIr1evNcXo0sYERoD1sbhJZx8xw/view">PDF</a></span> <span class='paper-asset'><a href="[https://github.com/SallyLi0606/DSE-BIRCH](https://github.com/SIAT-code/OTMTD)">Code</a></span>
+  <span class='paper-asset'><a href="https://doi.org/10.1109/JBHI.2024.3370680">Page</a></span> <span class='paper-asset'><a href="https://drive.google.com/file/u/0/d/1TLncJUIr1evNcXo0sYERoD1sbhJZx8xw/view">PDF</a></span> <span class='paper-asset'><a href="https://github.com/SIAT-code/OTMTD">Code</a></span>
 
 
 # 🎖 Honors and Awards
