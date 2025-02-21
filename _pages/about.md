@@ -25,9 +25,9 @@ During my master studies, I ranked second in my major with an average score of 8
 
 
 # 🎓 Education
-- *2024.09 - present*: PhD candidate, Renmin University of China, Beijing.
-- *2022.12 - 2024.05*: Intern master, Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, Shenzhen.
-- *2021.09 - 2024.06*: Master, Hubei University of Technology, Wuhan.
+- *2024.09 - present*: <img src='./images/ruc.png' style='width: 5em;'> PhD candidate, Renmin University of China, Beijing.
+- *2022.12 - 2024.05*: <img src='./images/ucas.png' style='width: 5em;'> Intern master, Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, Shenzhen.
+- *2021.09 - 2024.06*: <img src='./images/hbut.png' style='width: 5em;'> Master, Hubei University of Technology, Wuhan.
 
 
 # 📝 Publications
