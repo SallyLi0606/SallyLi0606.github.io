@@ -17,113 +17,58 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently work at [Huawei Technolgies](https://www.huawei.com/) as an AI engineer in Shanghai, China. My work focuses on the intelligent automated evaluation of Large Language Models (LLMs). I will become a PhD candidate at [School of Software and Microelectronics](https://www.ss.pku.edu.cn/), Peking University (北京大学软件与微电子学院) in the fall semester of 2025. My research interest includes `LLMs`, `multimodality learning`, `representation learning`, and `transferability`.
+I am currently a PhD student at the School of Statistics, Renmin University of China (中国人民大学统计学院), advised by [Xiaoling lv (吕晓玲)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). I mainly engaged in the research of the intersection of data mining and statistics. My research interest includes Data Mining, Applied Statistics, and Statistical Analysis of Consumer Behavior. I have published four papers at the JCR-Q1/Q2 journals.
 
-I graduated from the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) (中国科学院大学) with a Master's degree in Computer Technology, advised by [Yunpeng Cai](https://people.ucas.edu.cn/~caiyunpeng). I earned my bachelor’s degree at [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), Shenzhen University.
+I graduated from the School of Science at Hubei University of Technology with a major in Applied Statistics, advised by [Youxi Luo (罗幼喜)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). Between December 2022 and May 2024, I interned at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, focusing on applied statics and AI-driven big data on bioinformatics.
 
-As the first or co-first author, I have published four articles in top-tier journals or JCR Q1-ranked journals with total <a href='https://scholar.google.com/citations?user=P7wwiSMAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FBrian-zZZ%2Fbrian-zzz.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I have also presented a conference paper and published an invention patent.
-
-
-# 🔥 News
-- *2025.02*: &nbsp;🎉🎉 My paper [A Transferability-guided Protein-ligand Interaction Prediction Method](https://doi.org/10.1016/j.ymeth.2025.01.019) is accepted by *Methods*.
-- *2025.01*: &nbsp;🎉🎉 I have been admitted as a PhD student to the School of Software and Microelectronics, Peking University <img src='./images/pku_ss_logo.png' style='width: 6em;'>.
+During my master studies, I ranked second in my major with an average score of 89.86. I won the first-class academic scholarship and the title of Outstanding Graduate Student at the university level for two consecutive years. I was also awarded the National Scholarship (研究生国家奖学金). Actively engaging in academic competitions, I have won awards in all six national-level academic competitions I participated in.
 
 
-# 📖 Educations
-- *2025.09 -*: PhD Candidate, School of Software and Microelectronics, Peking University <img src='./images/pku_words.png' style='width: 6em;'>.
-- *2021.09 - 2024.06*: Master, Shenzhen Institutes of Advanced Technology (SIAT), University of Chinese Academy of Sciences <img src='./images/ucas_words.png' style='width: 6em;'>.
-- *2017.07 - 2021.06*: Bachelor, College of Electronics and Information Engineering, Shenzhen University <img src='./images/szu_words.png' style='width: 6em;'>.
+# 🎓 Education
+- *2024.09 - present*: PhD candidate, Renmin University of China, Beijing.
+- *2022.12 - 2024.05*: Intern master, Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, Shenzhen.
+- *2021.09 - 2024.06*: Master, Hubei University of Technology, Wuhan.
 
 
-# 📝 Publications 
+# 📝 Publications
+- <span class='paper-badge'>IEEE Access</span> **Dynamic and Static Enhanced BIRCH for Functional Data Clustering**<br>
+  _<u><b>Wang Li</b></u>, Hanfang Li, and Youxi Luo_<br>
+  _IEEE Access_, 2024 (JCR-Q2)<br>
+  <span class='paper-asset'><a href="https://doi.org/10.1109/ACCESS.2023.3322929">Page</a></span> <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10274088">PDF</a></span> <span class='paper-asset'><a href="https://github.com/SallyLi0606/DSE-BIRCH">Code</a></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science</div><img src='images/Adv.Sci._2023.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- <span class='paper-badge'>Electronics</span> **A deep learning approach with extensive sentiment analysis for quantitative investment**<br>
+  _<u><b>Wang Li</b></u>, Chaozhu Hu, and Youxi Luo_<br>
+  _Electronics_, 2024 (JCR-Q2)<br>
+  <span class='paper-asset'><a href="https://doi.org/10.3390/electronics12183960">Page</a></span> <span class='paper-asset'><a href="https://www.mdpi.com/2079-9292/12/18/3960/pdf?version=1695202432">PDF</a></span> <span class='paper-asset'><a href="https://github.com/SallyLi0606/Quant">Code</a></span>
 
-[A Multimodal Protein Representation Framework for Quantifying Transferability Across Biochemical Downstream Tasks](https://doi.org/10.1002/advs.202301223)
+- <span class='paper-badge'>Methods</span> **Does protein pretrained language model facilitate the prediction of protein–ligand interaction?**<br>
+  _Weihong Zhang, Fan Hu, <u><b>Wang Li</b></u>, and Peng Yin_<br>
+  _Methods_, 2024 (JCR-Q1, IF=4.8)<br>
+  <span class='paper-asset'><a href="https://doi.org/10.1016/j.ymeth.2023.08.016">Page</a></span> <span class='paper-asset'><a href="https://drive.google.com/file/u/0/d/1hvl9Qv9IOomUONblO1SUR71X7TALEOQL/view">PDF</a></span> <span class='paper-asset'><a href="https://github.com/brian-zZZ/PLM-PLI">Code</a></span>
 
-Fan Hu¹, Yishen Hu¹, **Weihong Zhang**¹, Huazhen Huang, Yi Pan, and Peng Yin
-> **¹: These authors contributed equally to this work** (the same hereafter).
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P7wwiSMAAAAJ&citation_for_view=P7wwiSMAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='P7wwiSMAAAAJ:u5HHmVD_uO8C'></span></strong> \| [![**GitHub Repository**](https://img.shields.io/github/stars/SIAT-code/MASSA?style=social&label=Code+Stars)](https://github.com/SIAT-code/MASSA)
-- A SOTA multimodal deep learning framework for incorporating ≈1 million protein sequence, structure, and functional annotation (MASSA).
-- Academic Impact: This work is promoted by [DrugAI](https://mp.weixin.qq.com/s/YFk9OVoHqAZNwkXpx41LQw).
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI</div><img src='images/JBHI_2024.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Transferability-Based Method for Evaluating the Protein Representation Learning](https://doi.org/10.1109/JBHI.2024.3370680)
-
-Fan Hu¹, **Weihong Zhang**¹, Huazhen Huang, Wang Li, Yang Li, Peng Yin
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P7wwiSMAAAAJ&citation_for_view=P7wwiSMAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='P7wwiSMAAAAJ:9yKSN-GCB0IC'></span></strong> \| [![**GitHub Repository**](https://img.shields.io/github/stars/SIAT-code/OTMTD?style=social&label=Code+Stars)](https://github.com/SIAT-code/OTMTD)
-- A novel quantitative approach for estimating the performance of transferring multi-task pre-trained protein representations to downstream tasks.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Methods</div><img src='images/Methods_2023.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Does Protein Pretrained Language Model Facilitate the Prediction of Protein–ligand Interaction?](https://doi.org/10.1016/j.ymeth.2023.08.016)
-
-**Weihong Zhang**, Fan Hu, Wang Li, Peng Yin
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P7wwiSMAAAAJ&citation_for_view=P7wwiSMAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='P7wwiSMAAAAJ:u-x6o8ySG0sC'></span></strong> \| [![**GitHub Repository**](https://img.shields.io/github/stars/brian-zZZ/PLM-PLI?style=social&label=Code+Stars)](https://github.com/brian-zZZ/PLM-PLI)
-- An approach that quantitatively evaluates the impact of protein pretrained language model (PLM) in protein–ligand interaction (PLI) predictions, which allows us to select the optimal PLM for a given downstream task without exhaustively testing each PLM, thus avoiding the costly computational expense. The mechanisms underlying the influence of protein PLMs on PLI tasks are explored.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Methods</div><img src='images/Methods_2025.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Transferability-guided Protein-ligand Interaction Prediction Method](https://doi.org/10.1016/j.ymeth.2025.01.019)
-
-**Weihong Zhang**, Fan Hu, Peng Yin, Yunpeng Cai
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P7wwiSMAAAAJ&citation_for_view=P7wwiSMAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='P7wwiSMAAAAJ:2osOgNQ5qMEC'></span></strong> \| [![**GitHub Repository**](https://img.shields.io/github/stars/brian-zZZ/Guided-PLI?style=social&label=Code+Stars)](https://github.com/brian-zZZ/Guided-PLI)
-- A novel transferability-guided PLI prediction method that maximizes knowledge transfer by deeply integrating protein and ligand representations through a cross-attention mechanism and incorporating transferability metrics to guide fine-tuning.
-</div>
-</div>
-
-
-- <span class='paper-badge'>ISBRA 2024</span> **A Transferability-guided Protein-ligand Interaction Prediction Method**<br>
-  _<u><b>Weihong Zhang</b></u>, Fan Hu, Peng Yin, Yunpeng Cai_<br>
-  _The 20th International Symposium on Bioinformatics Research and Application_, 2024 (CCF-C)<br>
-  <span class='paper-asset'><a href="https://doi.org/10.1016/j.ymeth.2025.01.019">Page</a></span> <span class='paper-asset'><a href="https://bio.csu.edu.cn/ISBRA2024/ISBRA2024_files/ISBRA2024_Schedule.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/brian-zZZ/Guided-PLI">Code</a></span>
-
-- <span class='paper-badge'>Invention Pattern</span> **An Evaluation Method and System for Protein Representation Learning Based on Quantitative Transferability (一种基于可迁移性定量的蛋白质表示学习评估方法及系统)**<br>
-  _Fan Hu, <u><b>Weihong Zhang</b></u>, Peng Yin_<br>
-  _China Invention Pattern, CN117637034A_, 2024<br>
-  <span class='paper-asset'><a href="http://epub.cnipa.gov.cn/patent/CN117637034A">Page</a></span>
-
-
-# 🗣 Conferences
-- *2024.07*: The 20th International Symposium on Bioinformatics Research and Application (ISBRA 2024), Oral, Kunming, China.
-
-
-# 💻 Internships
-- *2024.07 - present*: <a href="https://www.huawei.com/"><img src='./images/huawei.png' width="23pt"></a> AI Engineer, Huawei Technologies Co., Ltd., Shanghai, China.
-- *2021.06 - 2021.08*: <a href="https://www.siat.ac.cn/"><img src='./images/siat.jpeg' width="23pt"></a> Research Intern, SIAT, Chinese Academy of Sciences, Shenzhen, China.
+- <span class='paper-badge'>IEEE JBHI</span> **A Transferability-Based Method for Evaluating the Protein Representation Learning**<br>
+  _Fan Hu, Weihong Zhang, Huazhen Huang, <u><b>Wang Li<u><b>, Yang Li, and Peng Yin<br>
+  _IEEE Journal of Biomedical and Health Informatics_, 2024 (JCR-Q1 Top, IF=7.7)<br>
+  <span class='paper-asset'><a href="https://doi.org/10.1109/JBHI.2024.3370680">Page</a></span> <span class='paper-asset'><a href="https://drive.google.com/file/u/0/d/1TLncJUIr1evNcXo0sYERoD1sbhJZx8xw/view">PDF</a></span> <span class='paper-asset'><a href="[https://github.com/SallyLi0606/DSE-BIRCH](https://github.com/SIAT-code/OTMTD)">Code</a></span>
 
 
 # 🎖 Honors and Awards
-- *2024.07*: Merit Student of University of Chinese Academy of Sciences.
-- *2024.04*: Outstanding Communist Youth League Member of Chinese Academy of Sciences (Guangzhou).
-- *2024.01*: SIAT President's Scholarship - Excellence Award.
-- *2023.02*: Outstanding Student at the BIT Center, SIAT, Chinese Academy of Sciences.
-- *2021.06*: Outstanding Graduate of the School of Electronic and Information Engineering, Shenzhen University.
-- *2020.12*: Shenzhen University Academic Star Scholarship.
-- *2020.10*: National Endeavor Scholarship.
-- *2020.07*: Outstanding Communist Youth League Member of Shenzhen University.
-- *2019.12*: Shenzhen University Public Service Star Scholarship.
-- *2019.06*: Outstanding Volunteer Officer of Shenzhen University.
-- *2018.12*: Shenzhen University Public Service Star Scholarship.
-- *2018.10*: National Endeavor Scholarship.
+- 2024.06: University-level Outstanding Graduate.
+- 2023.10: **National Scholarship for Postgraduate Students**.
+- 2022.10: Annual Outstanding Student of HBUT.
+- 2022.10: First-class academic scholarship.
+- 2021.10: Annual Outstanding Student of HBUT.
+- 2021.10: First-class academic scholarship.
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=KKVQwhlxW3eaKbtrI8kx7IgDAyBI9TlARuKNBXIu9g0'></script>
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=KKVQwhlxW3eaKbtrI8kx7IgDAyBI9TlARuKNBXIu9g0&cl=ffffff&w=600"></script> -->
+
+# 🏆 Competitions
+1. 2021.09: *the 18th China Postgraduate Mathematical Modeling Competition (Huawei Cup)*, National Third Prize.
+2. 2022.03: *the 12th National College Students' Market Research Competition*, National Third Prize.
+3. 2022.05: *the 5th National Case Competition for Postgraduate Students of Applied Statistics Professional Degree*, National Second Prize.
+4. 2022.06: *the 8th National College Students' Statistical Modeling Competition*, Provincial Second Prize.
+5. 2022.10: *the 19th China Postgraduate Mathematical Modeling Competition (Huawei Cup)*, National Third Prize.
+6. 2023.05: *the 6th National Case Competition for Postgraduate Students of Applied Statistics Professional Degree*, National Second Prize.
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=j0ptY-6JpAT4iYhlPLvIVc84KkM7Bdq4m7afqNdB6K0'></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=j0ptY-6JpAT4iYhlPLvIVc84KkM7Bdq4m7afqNdB6K0&cl=ffffff&w=600"></script> -->
