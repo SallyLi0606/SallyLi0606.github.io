@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wang Li "
+title                    : "Wang Li (李旺)"
 description              : "PhD candidate at Renmin University of China. Focusing on Recommendation System, Data Mining, and Applied Statistics."
 repository               : "SallyLi0606/SallyLi0606.github.io"
 google_scholar_stats_use_cdn : true
