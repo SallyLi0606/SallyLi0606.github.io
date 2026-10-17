@@ -119,6 +119,6 @@ _Electronics_, 2024 (JCR-Q2)<br>
 7. 2021.09: *the 18th China Postgraduate Mathematical Modeling Competition (Huawei Cup)*, National Third Prize.
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=wWuKIsCZO2yYZA7sXQVVhdoENIGHAUsZCAy6ZjG-Uhk&cl=ffffff&w=a600"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=wWuKIsCZO2yYZA7sXQVVhdoENIGHAUsZCAy6ZjG-Uhk&cl=ffffff&w=600"></script>
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=j0ptY-6JpAT4iYhlPLvIVc84KkM7Bdq4m7afqNdB6K0'></script> -->
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=j0ptY-6JpAT4iYhlPLvIVc84KkM7Bdq4m7afqNdB6K0&cl=ffffff&w=600"></script> -->
