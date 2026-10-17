@@ -33,7 +33,7 @@ I graduated from the School of Science at Hubei University of Technology with a 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/ipm_2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/ipm_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Signaling-Cognitive Architecture for Product Rating as Quality Inference](https://doi.org/10.1016/j.ipm.2026.105196)
