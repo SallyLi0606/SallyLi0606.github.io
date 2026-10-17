@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at the School of Statistics, Renmin University of China (中国人民大学统计学院), advised by [Xiaoling lu (吕晓玲)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). I mainly engaged in the research of the intersection of data mining and statistics. My research interest includes `Recommendation System`, `Data Mining`, and `Applied Statistics`. In particular, I am currently interested in exploring how LLMs expand the research boundaries of recommender systems. I have published 6 papers at the JCR-Q1/Q2 journals such as IPM, JBHI.
+I am Wang Li (李旺), a PhD student at the School of Statistics, Renmin University of China (中国人民大学统计学院), advised by [Xiaoling lu (吕晓玲)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). I mainly engaged in the research of the intersection of data mining and statistics. My research interest includes `Recommendation System`, `Data Mining`, and `Applied Statistics`. In particular, I am currently interested in exploring how LLMs expand the research boundaries of recommender systems. I have published 6 papers at the JCR-Q1/Q2 journals such as IPM, JBHI.
 
-I graduated from the School of Science at Hubei University of Technology with a major in Applied Statistics, advised by [Youxi Luo (罗幼喜)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). Between December 2022 and May 2024, I interned at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, focusing on applied statics and AI-driven big data on bioinformatics.
+I graduated from the School of Science at Hubei University of Technology with a major in Applied Statistics, advised by [Youxi Luo](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). Between December 2022 and May 2024, I interned at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, focusing on applied statics and AI-driven big data on bioinformatics.
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉 My paper [A Signaling-Cognitive Architecture for Product Rating as Quality Inference](https://doi.org/10.1016/j.ipm.2026.105196) is accepted by *IPM*.
