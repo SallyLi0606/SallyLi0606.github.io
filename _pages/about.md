@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at the School of Statistics, Renmin University of China (中国人民大学统计学院), advised by [Xiaoling lv (吕晓玲)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). I mainly engaged in the research of the intersection of data mining and statistics. My research interest includes `Recommendation System`, `Data Mining`, and `Applied Statistics`. In particular, I am currently interested in exploring how LLMs expand the research boundaries of recommender systems. I have published 6 papers at the JCR-Q1/Q2 journals such as IPM, JBHI.
+I am currently a PhD student at the School of Statistics, Renmin University of China (中国人民大学统计学院), advised by [Xiaoling lu (吕晓玲)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). I mainly engaged in the research of the intersection of data mining and statistics. My research interest includes `Recommendation System`, `Data Mining`, and `Applied Statistics`. In particular, I am currently interested in exploring how LLMs expand the research boundaries of recommender systems. I have published 6 papers at the JCR-Q1/Q2 journals such as IPM, JBHI.
 
 I graduated from the School of Science at Hubei University of Technology with a major in Applied Statistics, advised by [Youxi Luo (罗幼喜)](http://cfas.ruc.edu.cn/kydw/zzyjy/lxl/index.htm). Between December 2022 and May 2024, I interned at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, focusing on applied statics and AI-driven big data on bioinformatics.
 
@@ -75,9 +75,9 @@ _Electronics_, 2024 (JCR-Q2)<br>
 </div>
 
 
-- <span class='paper-badge'>Experimental Eye Research</span> **Biomarkers discovery of diabetic retinopathy through serum metabolomics—Retinal image association analysis with machine learning**<br>
+- <span class='paper-badge'>Exp Eye Res</span> **Biomarkers discovery of diabetic retinopathy through serum metabolomics—Retinal image association analysis with machine learning**<br>
   _D Lv, H Liu, X Shi, M Zhu, H Huang, <u><b>W Li</b></u>, X Wu, F Xie, W Xie, Q Shang, X Wu, Y Luo, F Hu, P Yin, N Li, Z Zhao_<br>
-  _Methods_, 2026 (JCR-Q1)<br>
+  _Experimental Eye Research_, 2026 (JCR-Q1)<br>
   <span class='paper-asset'><a href="https://doi.org/10.1016/j.exer.2026.111007">Page</a></span> <span class='paper-asset'><a href="https://www.sciencedirect.com/science/article/pii/S0014483526001636/pdfft?md5=f1c1645509087857f3b6d5c51efe1fcc&pid=1-s2.0-S0014483526001636-main.pdf">PDF</a></span>
 
 
