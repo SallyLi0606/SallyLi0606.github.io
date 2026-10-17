@@ -26,7 +26,7 @@ I graduated from the School of Science at Hubei University of Technology with a 
 - *2024.05*: &nbsp;🎓 I have been admitted as a PhD student to the School of Statistics, Renmin University of China.
 
 
-# 🎓 Education
+# 🎓 Educations
 - *2024.09 - present*: <a href="https://www.huawei.com/"><img src='./images/ruc.png' width="23pt"></a> PhD candidate, Renmin University of China, Beijing. (**GPA 3.93/4.0, Rank 1st**)
 - *2021.09 - 2024.06*: <a href="https://www.huawei.com/"><img src='./images/hbut.png' width="23pt"></a> Master, Hubei University of Technology, Wuhan. (**GPA Rank 1st**)
 
